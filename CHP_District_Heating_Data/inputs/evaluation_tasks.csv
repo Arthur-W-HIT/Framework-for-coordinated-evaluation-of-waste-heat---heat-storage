@@ -1,0 +1,7 @@
+task,cases,window_start_h,window_end_h,quantity_evaluated
+Economic operation,N and 12 integration configurations,0,120,Net operating cost and recovery
+Mean-price comparison,A-R N/W/WS,0,120,Cost evaluated at observed hourly electricity prices
+Sustained downward regulation,A-R N/W/WS and representative A-S/A-X cases,33,37,Minimum maintained electrical output
+Sustained upward regulation,A-R WS,90,94,Maximum maintained electrical output
+Common regulation task,A-R N/W/WS,33,37,Operating costs and compensation
+Thermal storage comparison,A-R WS with net discharge allowed and restricted,0,120,Value of net discharge

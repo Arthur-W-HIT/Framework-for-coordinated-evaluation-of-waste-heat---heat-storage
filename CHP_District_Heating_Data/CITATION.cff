@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and the associated article if you use these data."
+type: dataset
+title: "Data for an optimization-based framework for coordinated evaluation of waste heat and thermal storage integration in combined heat and power district heating"
+version: 1.0.0
+authors:
+  - given-names: "Zhonghao"
+    family-names: "Wang"
+  - given-names: "Fuxiang"
+    family-names: "Dong"
+  - given-names: "Yongcheng"
+    family-names: "Zhou"
+  - given-names: "Ruiyang"
+    family-names: "Jiang"
+  - given-names: "Jinfu"
+    family-names: "Liu"
+  - given-names: "Daren"
+    family-names: "Yu"
